@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @md-lopez
+- 👋 Hi, I’m Marco Lopez
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
