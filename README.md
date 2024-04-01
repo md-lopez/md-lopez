@@ -3,7 +3,6 @@
 - 🌱 CSS Ninja
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter @marco_polo05
-- Mapua University Graduating IT Student
 
 <!---
 md-lopez/md-lopez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
