@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marco Lopez
-- 👀 I’m interested in front-end web development
+- 👀 Full Stack Developer at HPL Game design
 - 🌱 CSS Ninja
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter @marco_polo05
