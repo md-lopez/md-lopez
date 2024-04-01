@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marco Lopez
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning React.js
+- 🌱 CSS Ninja
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter @marco_polo05
 - Mapua University Graduating IT Student
